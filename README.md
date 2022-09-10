@@ -1,12 +1,12 @@
 # rttviz-lvgl
 
 In ADAS, ROS is popular middleware for startup. It ROS community, Rviz is used for visualization and simulation, but Rviz is one QT based application only work on Linux machine, mainly following ROS Ubuntu release.
-[![](site/R-C.png)](site/R-C.png)
+[![](https://github.com/maoanping/rttviz-lvgl/blob/main/site/R-C.png)](site/R-C.png)
 This is ROS 3D element used to build simulation world, Rvizs idea is that it provide you lots of basic geometry elements, like cube, ball, line, cylinder and etc. then just like playing LEGO building blocks. 
 
 This project trying to build a quivalent embeded GUI for Rviz, so that in real project, all defined ROS communication can be reused, add one more piece of embeded GUI screen, a fast prototype can be done.
 
-[![](figures/Archetecture.png)](figures/Archetecture.png)
+[![](https://github.com/maoanping/rttviz-lvgl/blob/main/figures/Archetecture.png)](figures/Archetecture.png)
 
 
 # Main component
